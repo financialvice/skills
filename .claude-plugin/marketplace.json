@@ -1,0 +1,23 @@
+{
+  "name": "cam-skills",
+  "owner": {
+    "name": "Cam",
+    "email": "cam@example.com"
+  },
+  "metadata": {
+    "description": "Personal skills collection",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "cam-skills",
+      "description": "Collection of personal skills including InstantDB development and Raycast script creation",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./instantdb",
+        "./raycast-scripts"
+      ]
+    }
+  ]
+}
