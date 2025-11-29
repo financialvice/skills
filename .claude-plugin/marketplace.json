@@ -16,10 +16,27 @@
       "strict": false,
       "skills": [
         "./instantdb",
-        "./raycast-scripts"
+        "./raycast-scripts",
+        "./compact-files"
       ],
       "commands": [
         "./commands"
+      ],
+      "agents": [
+        "./agents/file-compactor.md",
+        "./agents/instantdb/feature-planner.md",
+        "./agents/instantdb/feature-code-reviewer.md",
+        "./agents/instantdb/schema-architect.md",
+        "./agents/instantdb/schema-code-reviewer.md",
+        "./agents/instantdb/schema-prod-migrator.md",
+        "./agents/instantdb/schema-dev-migrator.md",
+        "./agents/instantdb/query-architect.md",
+        "./agents/instantdb/query-code-reviewer.md",
+        "./agents/instantdb/transact-architect.md",
+        "./agents/instantdb/transact-code-reviewer.md",
+        "./agents/instantdb/type-safety-code-reviewer.md",
+        "./agents/instantdb/seeder.md",
+        "./agents/instantdb/debugger.md"
       ]
     }
   ]
