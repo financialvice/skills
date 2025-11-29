@@ -1,5 +1,5 @@
 ---
-name: autonomous-software-development
+name: auto-swe
 description: Setup an autonomous software development cycle, inspired by Anthropic's "Effective harnesses for long-running agents" blog (https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents). Adapted to fit our tech-stack (TypeScript, NextJS, InstantDB, Trigger.dev, tRPC) and style (kebab-case file-naming).
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: explore-source-code
+name: explore-source
 description: Explore external reference source code to understand implementations, draw inspiration, debug issues, or answer questions. Use when exploring repos like InstantDB, Trigger.dev, Vercel AI SDK, HeroUI Native, or any external codebase. Handles two modes - "inspiration" (adaptive, translating concepts to user's stack) or "understanding" (direct, definitive answers about the source). Always cite file:line references.
 ---
 
