@@ -17,6 +17,9 @@
       "skills": [
         "./instantdb",
         "./raycast-scripts"
+      ],
+      "commands": [
+        "./commands"
       ]
     }
   ]
