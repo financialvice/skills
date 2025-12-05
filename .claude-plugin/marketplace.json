@@ -39,7 +39,8 @@
         "./agents/instantdb/transact-code-reviewer.md",
         "./agents/instantdb/type-safety-code-reviewer.md",
         "./agents/instantdb/seeder.md",
-        "./agents/instantdb/debugger.md"
+        "./agents/instantdb/debugger.md",
+        "./agents/instantdb/idb-query.md"
       ]
     }
   ]

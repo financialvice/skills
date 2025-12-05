@@ -78,7 +78,7 @@ Check these common mistakes in order:
 7. **Ordering** - Cannot order by nested attributes; field must be indexed
 
 Example fixes:
-```javascript
+```ts
 // WRONG: where outside $
 { goals: { where: { id: 'x' } } }
 
